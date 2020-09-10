@@ -1,0 +1,1744 @@
+/* i-phone 6,7,8 */
+@media screen and (min-device-width: 370px) and (max-device-width: 379px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 29px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 52vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 28px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 25px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 40px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+}
+
+
+/* I Phone 6,7,8 */
+@media screen and (min-device-width: 370px) and (max-device-width: 380px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 29px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 52vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 28px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 25px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 40px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+
+}
+
+
+/* I Phone 6 plus*/
+@media screen and (min-device-width: 410px) and (max-device-width: 420px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 29px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 52vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 28px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 25px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 40px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+}
+
+
+
+/* iphone 6 7 8  teqac */
+@media screen and (min-device-width: 610px) and (max-device-width: 740px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 20px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 52vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:85%;
+    }
+
+    #cont > ul > li{
+        font-size: 20px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 20px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 20px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+}
+
+
+/* iphone-x  teqac*/
+
+@media screen and (min-device-width: 810px) and (max-device-width: 820px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 20px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 52vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:85%;
+    }
+
+    #cont > ul > li{
+        font-size: 20px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 20px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 20px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+}
+
+
+/* ihone 6 7 8 plus */
+@media only screen 
+and (min-device-width: 245px) 
+and (max-device-width: 812px) 
+and (-webkit-min-device-pixel-ratio: 3) { 
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+}
+
+/* 1792x828px at 326ppi */
+@media only screen 
+and (device-width: 410px) 
+and (device-height: 899px) 
+and (-webkit-device-pixel-ratio: 2) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+}
+
+
+@media screen and (min-device-width: 410px) and (max-device-width: 420px) {
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+}
+
+
+
+@media only screen 
+and (device-width : 410px) 
+and (device-height : 899px) 
+and (-webkit-device-pixel-ratio : 2) { 
+
+    .main-logo{
+        top: 39px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+}
+
+
+
+
+
+/* iPhone 6, 7, & 8 Plus in portrait */
+@media only screen 
+and (min-device-width : 410px) 
+and (max-device-width : 740px) 
+and (orientation : portrait) {
+
+
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+
+
+
+}
+
+
+@media screen and (min-device-width: 350px) and (max-device-width: 380px) {
+
+
+    .main-logo{
+        top: 36px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+}
+
+
+@media screen and (min-device-width: 310px) and (max-device-width: 325px) {
+
+
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px!important;
+    }
+}
+
+
+
+@media screen and (min-device-width: 760px) and (max-device-width: 770px) {
+
+
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+@media screen and (min-device-width: 1020px) and (max-device-width: 1030px) {
+
+
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+@media screen and (min-device-width: 440px) and (max-device-width: 460px) {
+
+
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+
+@media screen and (min-device-width: 790px) and (max-device-width: 1300px) {
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+@media screen and (min-device-width: 530px) and (max-device-width: 545px) {
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+@media screen and (min-device-width: 710px) and (max-device-width: 725px) {
+    .main-logo{
+        top: 37px!important;
+    }
+
+
+
+    .fixedimg{
+        top:8px!important;
+    }
+
+    h4{
+        font-size: 32px;
+        line-height:44px;
+    }
+
+    .container{
+        min-height: 61vh!important;
+        overflow: auto!important;
+        margin-top: 52px;
+
+    }
+
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul li > a{
+        padding: 10px 8px;
+    }
+
+    .footer_div{
+        width:80%;
+    }
+
+    #cont > ul > li{
+        font-size: 32px;
+    }
+
+    .contact_container{
+        width: 100%;
+    }
+
+    .contact_info{
+        width: 99%;
+        font-size: 32px;
+        line-height: 40px;
+        min-height: 500px;
+    }
+
+    .map{
+        float: none;
+    }
+
+    body > div.contact_container > div.contact_info > h2{
+        font-size: 32px;
+    }
+
+    #gmap_canvas{
+        width:908;
+        margin-top: 10px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > a,
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li > ul > li > a{
+        font-size:23px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul{
+        margin-right:0;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li{
+        margin:10px 5px 0 5px;
+    }
+    body > div.nav_menu.nav_menu_header > div > nav > div > ul > li.dropdown.language-selector.show > ul > li{
+        font-size:23px;
+    }
+    .dropdown-menu{
+        margin-right:0!important;
+    }
+    .nav-footer{
+        height:150px;
+    }
+
+    .nav-footer li{
+        width: 45%;
+    }
+
+
+    .footer-ul, .footer_div {
+        width: 88%;
+        margin-left: 78px;
+    }
+
+    footer > div > ul > li{
+        font-size:21px!important;
+    }
+    body > div.container > ul > li {
+        font-size:24px;
+    }
+}
+
+
+
+

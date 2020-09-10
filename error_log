@@ -1,0 +1,38 @@
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/armalamn/public_html/db.php on line 2
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 14
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/header.php on line 15
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 17
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 18
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/armalamn/public_html/header.php on line 54
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/slider.php on line 4
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/slider.php on line 9
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/index.php on line 6
+[12-Aug-2020 17:45:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/index.php on line 7
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/armalamn/public_html/db.php on line 2
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 14
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/header.php on line 15
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 17
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 18
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/armalamn/public_html/header.php on line 54
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/slider.php on line 4
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/slider.php on line 9
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/index.php on line 6
+[12-Aug-2020 17:47:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/index.php on line 7
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arm-al@bk.ru'@'localhost' (using password: YES) in /home/armalamn/public_html/db.php on line 2
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 14
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/header.php on line 15
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 17
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/header.php on line 18
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/armalamn/public_html/header.php on line 54
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/slider.php on line 4
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/slider.php on line 9
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/armalamn/public_html/index.php on line 6
+[12-Aug-2020 17:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/armalamn/public_html/index.php on line 7
+[12-Aug-2020 19:45:32 UTC] PHP Parse error:  syntax error, unexpected '$slider' (T_VARIABLE) in /home/armalamn/public_html/slider.php on line 5
+[12-Aug-2020 19:45:39 UTC] PHP Parse error:  syntax error, unexpected '$slider' (T_VARIABLE) in /home/armalamn/public_html/slider.php on line 5
+[12-Aug-2020 19:47:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/armalamn/public_html/header.php on line 2
+[12-Aug-2020 19:47:45 UTC] PHP Parse error:  syntax error, unexpected '$slider' (T_VARIABLE) in /home/armalamn/public_html/slider.php on line 5
+[12-Aug-2020 19:48:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/armalamn/public_html/header.php on line 2
+[12-Aug-2020 19:48:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/armalamn/public_html/slider.php on line 2
+[12-Aug-2020 19:50:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/armalamn/public_html/header.php on line 2
+[12-Aug-2020 19:50:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/armalamn/public_html/slider.php on line 2
